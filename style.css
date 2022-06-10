@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2? family= Roboto+Slab:wght@700 & family= Roboto:wght@400;700 & display=swap');
+
+* { box-sizing: content-box ;}
+header {
+    background-image: url(./imágenes/header.png);
+    background-size: cover;
+    padding: 300px;
+    
+    
+
+}
+body {
+    width: 100%;
+    margin: auto;
+}
+img {
+    width: 80%;
+    margin: auto;
+    display: block;
+}
+
+main {
+    width: 80%;
+    padding: 10px;
+    margin: auto;
+    display: block;
+}
+
+#pp {
+    margin-left: 10%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 26px;
+}
+
+h1{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    font-size: 58px;
+    color: #0a2ff1;
+    
+}
+
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    color: #0a2ff1;
+    margin-left: 10%;
+}
+
+footer {
+    width: 80%;
+    margin-left: 18%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+button {
+    margin-bottom: 10px;
+    width: 300px;
+    height: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 27px;
+    background-color: #0a2ff1;
+    border: none;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+hr{
+    background-color: #15163d;
+    color: #15163d;
+    width: 98%;
+    height: 5px;
+}
+
